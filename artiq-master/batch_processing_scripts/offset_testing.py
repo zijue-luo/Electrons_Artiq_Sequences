@@ -26,7 +26,6 @@ def offset_param_name(electrode: str) -> str:
     """
     return f"offset_{electrode}"
 
-
 # Scan range for single_parameter_scan
 SCAN_CONFIG = {
     "min_scan": -20.0,    # offset lower bound
