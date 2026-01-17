@@ -1,4 +1,4 @@
-no_of_repeat,act_RF_amplitude,ratio_signal,ratio_lost,loading_signal,trapped_signal,lost_signal,time_cost
+no_of_repeats,act_RF_amplitude,ratio_signal,ratio_lost,loading_signal,trapped_signal,lost_signal,time_cost
 6000,,,,,,,
 1500,,,,,,,
 2000,,,,,,,
